@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP Simulation\\TCP Simulation.csproj": {}
+    "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP-Simulation\\TCP Simulation\\TCP Simulation.csproj": {}
   },
   "projects": {
-    "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP Simulation\\TCP Simulation.csproj": {
+    "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP-Simulation\\TCP Simulation\\TCP Simulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP Simulation\\TCP Simulation.csproj",
+        "projectUniqueName": "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP-Simulation\\TCP Simulation\\TCP Simulation.csproj",
         "projectName": "TCP Simulation",
-        "projectPath": "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP Simulation\\TCP Simulation.csproj",
+        "projectPath": "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP-Simulation\\TCP Simulation\\TCP Simulation.csproj",
         "packagesPath": "C:\\Users\\TUF\\.nuget\\packages\\",
-        "outputPath": "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP Simulation\\obj\\",
+        "outputPath": "D:\\2_Kuliah\\SMT5\\Pak Fahim\\TCP Simulation\\TCP-Simulation\\TCP Simulation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
